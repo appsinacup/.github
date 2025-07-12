@@ -9,7 +9,7 @@ Game Development Addons:
 
 
 Documentation:
-- [documentation-release-checklist](https://github.com/appsinacup/documentation-release-checklist): A checklist of things needed to do when releasing a game.
+- [documentation_release_checklist](https://github.com/appsinacup/documentation_release_checklist): A checklist of things needed to do when releasing a game.
 - [documentation_lobby](https://github.com/appsinacup/documentation_lobby): Documentation for Lobby Server.
 
 Game Release Addons:
