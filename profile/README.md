@@ -6,6 +6,8 @@ Game Development Addons:
 
 - [addon_shared_menus](https://github.com/appsinacup/addon_shared_menus): Shared menus used in games.
 - [addon_icons_editor](https://github.com/appsinacup/addon_icons_editor): Google material icons editor plugin.
+- [addon_theme_editor](https://github.com/appsinacup/addon_theme_editor): Addon for managing themes.
+- [addon_emoji_editor/tree/main](https://github.com/appsinacup/addon_emoji_editor): Emoji addon.
 
 
 Documentation:
