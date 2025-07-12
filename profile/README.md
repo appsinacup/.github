@@ -9,7 +9,7 @@ Game Development Addons:
 
 
 Documentation Addons:
-- [documentation-release-checklist](https://github.com/appsinacup/documentation-release-checklist)
+- [documentation-release-checklist](https://github.com/appsinacup/documentation-release-checklist): A checklist of things needed to do when releasing a game.
 
 Game Release Addons:
 - [addon_export_tools](https://github.com/appsinacup/addon_export_tools): Export tools used to generate images for stores.
