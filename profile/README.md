@@ -11,6 +11,9 @@ Game Development Addons:
 - [addon_theme_editor](https://github.com/appsinacup/addon_theme_editor): Addon for managing themes.
 - [addon_emoji_editor](https://github.com/appsinacup/addon_emoji_editor): Emoji addon.
 
+Actions:
+
+- [action_setup_godot](https://github.com/appsinacup/action_setup_godot)
 
 Documentation:
 - [documentation_release_checklist](https://github.com/appsinacup/documentation_release_checklist): A checklist of things needed to do when releasing a game.
