@@ -13,7 +13,7 @@ Game Development Addons:
 
 Actions:
 
-- [action_setup_godot](https://github.com/appsinacup/action_setup_godot)
+- [action_setup_godot](https://github.com/appsinacup/action_setup_godot): GitHub Action that sets up the Godot Engine for Windows, Linux and Mac.
 
 Documentation:
 - [documentation_release_checklist](https://github.com/appsinacup/documentation_release_checklist): A checklist of things needed to do when releasing a game.
