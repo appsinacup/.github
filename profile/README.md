@@ -2,7 +2,7 @@
 
 Developing games and tools.
 
-Game Development Addons:
+Addons:
 
 - [godot-softbody2d](https://github.com/appsinacup/godot-softbody2d): Plugin that adds deformable 2D soft body.
 - [godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics): 2D and 3D physics engine for the Godot game engine. with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
@@ -19,5 +19,8 @@ Actions:
 Documentation:
 - [documentation_release_checklist](https://github.com/appsinacup/documentation_release_checklist): A checklist of things needed to do when releasing a game.
 - [documentation_lobby](https://github.com/appsinacup/documentation_lobby): Documentation for Lobby Server.
+
+Templates:
+- [project_godot_autobuild](https://github.com/appsinacup/project_godot_autobuild): Template project that uses Export Godot Game action.
 
 Services:
