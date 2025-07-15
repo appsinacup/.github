@@ -15,6 +15,7 @@ Actions:
 
 - [action_setup_godot](https://github.com/appsinacup/action_setup_godot): GitHub Action that sets up the Godot Engine for Windows, Linux and Mac.
 - [action_export_godot_game](https://github.com/appsinacup/action_export_godot_game): Actions to build Godot game for all platforms.
+- [action_deploy_godot_game](https://github.com/appsinacup/action_deploy_godot_game): Actions to deploy Godot game to steam/web/itch/docker/appstore/playstore.
 
 Documentation:
 - [documentation_release_checklist](https://github.com/appsinacup/documentation_release_checklist): A checklist of things needed to do when releasing a game.
