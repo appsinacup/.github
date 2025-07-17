@@ -10,6 +10,7 @@ Addons:
 - [addon_icons_editor](https://github.com/appsinacup/addon_icons_editor): Google material icons editor plugin.
 - [addon_theme_editor](https://github.com/appsinacup/addon_theme_editor): Addon for managing themes.
 - [addon_emoji_editor](https://github.com/appsinacup/addon_emoji_editor): Emoji addon.
+- [addon_tiny_lobby_client](https://github.com/appsinacup/addon_tiny_lobby_client): Client used to connect to tiny lobby.
 
 Actions:
 
@@ -25,3 +26,4 @@ Templates:
 - [project_godot_autobuild](https://github.com/appsinacup/project_godot_autobuild): Template project that uses Export Godot Game action.
 
 Services:
+- [tiny_lobby](https://github.com/appsinacup/tiny_lobby): Mutliplayer backend service with lua and angelscript scripting.
