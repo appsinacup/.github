@@ -14,7 +14,7 @@ Addons:
 
 Actions:
 
-- [action_godot_builder/actions](https://github.com/appsinacup/action_godot_builder/actions): Action that builds custom Godot Engine.
+- [action_godot_builder](https://github.com/appsinacup/action_godot_builder): Action that builds custom Godot Engine.
 - [action_setup_godot](https://github.com/appsinacup/action_setup_godot): GitHub Action that sets up the Godot Engine for Windows, Linux and Mac.
 - [action_export_godot_game](https://github.com/appsinacup/action_export_godot_game): Actions to build Godot game for all platforms.
 - [action_deploy_godot_game](https://github.com/appsinacup/action_deploy_godot_game): Actions to deploy Godot game to steam/web/itch/docker/appstore/playstore.
