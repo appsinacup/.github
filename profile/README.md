@@ -22,6 +22,7 @@ Actions:
 Documentation:
 - [documentation_release_checklist](https://github.com/appsinacup/documentation_release_checklist): A checklist of things needed to do when releasing a game.
 - [documentation_lobby](https://github.com/appsinacup/documentation_lobby): Documentation for Lobby Server.
+- [documentation_gdextension_to_module](https://github.com/appsinacup/documentation_gdextension_to_module): Documentation for how to port a GDExtension to Module.
 
 Templates:
 - [project_godot_autobuild](https://github.com/appsinacup/project_godot_autobuild): Template project that uses Export Godot Game action.
