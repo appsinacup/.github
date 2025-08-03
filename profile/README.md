@@ -26,6 +26,7 @@ Documentation:
 
 Templates:
 - [project_godot_autobuild](https://github.com/appsinacup/project_godot_autobuild): Template project that uses Export Godot Game action.
+- [tiny_lobby_starter](https://github.com/appsinacup/tiny_lobby_starter): Starter project for tiny lobby.
 
 Services:
 - [tiny_lobby](https://github.com/appsinacup/tiny_lobby): Mutliplayer backend service with lua and angelscript scripting.
