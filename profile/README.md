@@ -2,13 +2,16 @@
 
 Developing games and tools.
 
+## Tools:
+- [tiny_lobby](https://github.com/appsinacup/tiny_lobby): Mutliplayer backend service with lua and angelscript scripting.
+
 ## Addons:
 
 - [godot-softbody2d](https://github.com/appsinacup/godot-softbody2d): Plugin that adds deformable 2D soft body.
 - [godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics): 2D and 3D physics engine for the Godot game engine with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
 - [addon_tiny_lobby_client](https://github.com/appsinacup/addon_tiny_lobby_client): Client used to connect to tiny lobby.
 
-## Actions:
+## GitHub Actions:
 
 - [action_godot_builder](https://github.com/appsinacup/action_godot_builder): Action that builds custom Godot Engine.
 - [action_setup_godot](https://github.com/appsinacup/action_setup_godot): GitHub Action that sets up the Godot Engine for Windows, Linux and Mac.
@@ -24,5 +27,3 @@ Developing games and tools.
 - [project_godot_autobuild](https://github.com/appsinacup/project_godot_autobuild): Template project that uses Export Godot Game action.
 - [tiny_lobby_starter](https://github.com/appsinacup/tiny_lobby_starter): Starter project for tiny lobby server.
 
-## Services:
-- [tiny_lobby](https://github.com/appsinacup/tiny_lobby): Mutliplayer backend service with lua and angelscript scripting.
