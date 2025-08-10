@@ -3,7 +3,7 @@
 Developing games and tools.
 
 ## Tools:
-- [tiny_lobby](https://github.com/appsinacup/tiny_lobby): Mutliplayer backend service with lua and angelscript scripting.
+- [tiny_lobby](https://github.com/appsinacup/tiny_lobby): Multiplayer backend service with lua and angelscript scripting.
 
 ## Addons:
 
