@@ -27,7 +27,6 @@ Developing games and tools.
 ## Templates:
 - [project_godot_autobuild](https://github.com/appsinacup/project_godot_autobuild): Template project that uses Export Godot Game action.
 - [tiny_lobby_starter](https://github.com/appsinacup/tiny_lobby_starter): Starter project for tiny lobby server.
-- [demo_tiny_lobby_client](https://github.com/appsinacup/demo_tiny_lobby_client): Demo project for tiny lobby Godot client.
 
 ## Services:
 - [tiny_lobby](https://github.com/appsinacup/tiny_lobby): Mutliplayer backend service with lua and angelscript scripting.
