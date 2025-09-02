@@ -2,6 +2,9 @@
 
 Developing games and tools.
 
+## Engine:
+- [gonuts](https://github.com/appsinacup/gonuts): Godot editor with extra features
+
 ## Tools:
 - [tiny_lobby](https://github.com/appsinacup/tiny_lobby): Multiplayer backend service with lua scripting.
 
