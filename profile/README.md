@@ -10,6 +10,7 @@ Developing games and tools.
 - [godot-softbody2d](https://github.com/appsinacup/godot-softbody2d): Plugin that adds deformable 2D soft body.
 - [godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics): 2D and 3D physics engine for the Godot game engine with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
 - [addon_tiny_lobby_client](https://github.com/appsinacup/addon_tiny_lobby_client): Client used to connect to tiny lobby.
+- [godot_vscode_ide](https://github.com/appsinacup/godot_vscode_ide): VSCode in Godot.
 
 ## GitHub Actions:
 
