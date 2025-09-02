@@ -14,6 +14,8 @@ Developing games and tools.
 - [godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics): 2D and 3D physics engine for the Godot game engine with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
 - [addon_tiny_lobby_client](https://github.com/appsinacup/addon_tiny_lobby_client): Client used to connect to tiny lobby.
 - [godot_vscode_ide](https://github.com/appsinacup/godot_vscode_ide): VSCode in Godot.
+- [appsinacup/gdterm](https://github.com/appsinacup/gdterm) - fork of gdterm.
+- [appsinacup/godot_wry](https://github.com/appsinacup/godot_wry) - fork of godot_wry.
 
 ## GitHub Actions:
 
