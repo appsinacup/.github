@@ -1,6 +1,6 @@
 # Apps In A Cup
 
-Developing games and tools with Godot.
+Developing games and tools with Godot. From custom Engine with VSCode editor to Additional Platform Support.
 
 ## Engine:
 - [gonuts](https://github.com/appsinacup/gonuts): Godot editor with extra features
