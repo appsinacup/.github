@@ -11,7 +11,7 @@ Developing games and tools with Godot. From custom Engine with VSCode editor to 
 - [godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics): 2D and 3D physics engine for the Godot game engine with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
 - [addon_tiny_lobby_client](https://github.com/appsinacup/addon_tiny_lobby_client): Client used to connect to tiny lobby.
 - [godot_vscode_ide](https://github.com/appsinacup/godot_vscode_ide): VSCode in Godot.
-- [game_server]([https://github.com/appsinacup/gdterm](https://github.com/appsinacup/game_server)) - Gamend game server. Open source game server with authentication, users, lobbies, groups, friends, notifications, leaderboards, server scripting and admin portal.
+- [game_server](https://github.com/appsinacup/game_server) - Gamend game server. Open source game server with authentication, users, lobbies, groups, friends, notifications, leaderboards, server scripting and admin portal.
 
 ## GitHub Actions:
 
