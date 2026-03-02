@@ -3,7 +3,7 @@
 Developing games and tools with Godot. From custom Engine with VSCode editor to Additional Platform Support.
 
 ## Games:
-- [Polyglot Pirates]([https://github.com/appsinacup/gonuts](https://polyglotpirates.com)): One night, the sea creatures stole your treasure chest. Complete language minigames and challenges to get it back.
+- [Polyglot Pirates](https://github.com/appsinacup/gonuts](https://polyglotpirates.com): One night, the sea creatures stole your treasure chest. Complete language minigames and challenges to get it back.
 
 ## Addons:
 
