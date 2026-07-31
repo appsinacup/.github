@@ -11,7 +11,7 @@ Developing games and tools with Godot. From custom Engine with VSCode editor to 
 - [godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics): 2D and 3D physics engine for the Godot game engine with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
 - [godot-whisper](https://github.com/appsinacup/godot-whisper): Speech to text addon for Godot.
 - [godot_vscode_ide](https://github.com/appsinacup/godot_vscode_ide): VSCode in Godot.
-- [game_server](https://github.com/appsinacup/game_server) - Gamend game server. Open source game server with authentication, users, lobbies, groups, friends, notifications, leaderboards, server scripting and admin portal.
+- [gamend](https://github.com/appsinacup/gamend) - Gamend game server. Open source game server with authentication, users, lobbies, groups, friends, notifications, leaderboards, server scripting and admin portal.
 
 ## GitHub Actions:
 
@@ -23,5 +23,4 @@ Developing games and tools with Godot. From custom Engine with VSCode editor to 
 
 ## Documentation:
 - [documentation_release_checklist](https://github.com/appsinacup/documentation_release_checklist): A checklist of things needed to do when releasing a game.
-- [documentation_lobby](https://github.com/appsinacup/documentation_lobby): Documentation for Lobby Server.
 - [documentation_gdextension_to_module](https://github.com/appsinacup/documentation_gdextension_to_module): Documentation for how to port a GDExtension to Module.
